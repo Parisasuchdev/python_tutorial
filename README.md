@@ -33,12 +33,17 @@ conda --version
 python --version
 ```
 
+it says that it already exists, use this command in your terminal
+```bash
+sudo rm -rf /opt/anaconda3
+```
+
 1. Go to the [Anaconda website](https://www.anaconda.com/products/distribution).
 2. Download the installer for your operating system (Windows, macOS, or Linux).
 3. Run the installer and follow the instructions.
 
 **Note for Windows Users:** Make sure to check the option to add Anaconda to your PATH environment during installation.
-**Note of Mac Users:** If you are having issues where it says that it alrwady exists, use this command in your terminal
+**Note of Mac Users:** If you are having issues where it says that it already exists, use this command in your terminal
 ```bash
 sudo rm -rf /opt/anaconda3
 ```
@@ -51,7 +56,6 @@ Once Anaconda is installed, open your terminal to run the following commands to 
 conda --version
 python --version
 ```
-
 
 Python should already be installed with Anaconda. You can verify the installation using the `python --version` command above.
 
