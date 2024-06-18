@@ -33,7 +33,7 @@ conda --version
 python --version
 ```
 
-it says that it already exists, use this command in your terminal
+If it says that it already exists, use this command in your terminal
 ```bash
 sudo rm -rf /opt/anaconda3
 ```
