@@ -39,8 +39,9 @@ sudo rm -rf /opt/anaconda3
 ```
 
 1. Go to the [Anaconda website](https://www.anaconda.com/products/distribution).
-2. Download the installer for your operating system (Windows, macOS, or Linux).
-3. Run the installer and follow the instructions.
+3. Download the installer for your operating system (Windows, macOS, or Linux).
+   - Check mac chip version (intel or apple silicon) before downloading
+5. Run the installer and follow the instructions.
 
 **Note for Windows Users:** Make sure to check the option to add Anaconda to your PATH environment during installation.
 
