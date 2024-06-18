@@ -113,6 +113,7 @@ conda deactivate
 ## 4. Download BeautifulSoup using Conda:
 ```bash
 conda install -c anaconda beautifulsoup4
+from bs4 import BeautifulSoup
 ```
 
 ## 3. Resources for Further Learning
