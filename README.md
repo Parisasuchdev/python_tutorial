@@ -22,6 +22,17 @@ Anaconda is a distribution of Python and R for scientific computing and data sci
 
 #### Installation Guide
 
+Let's first check if it's already installed on your computers:
+
+#### Open Terminal
+
+Open your terminal (or Anaconda Prompt on Windows) to run the following commands to check the installations:
+
+```bash
+conda --version
+python --version
+```
+
 1. Go to the [Anaconda website](https://www.anaconda.com/products/distribution).
 2. Download the installer for your operating system (Windows, macOS, or Linux).
 3. Run the installer and follow the instructions.
@@ -34,7 +45,7 @@ sudo rm -rf /opt/anaconda3
 
 #### Open Terminal
 
-Once Anaconda is installed, open your terminal (or Anaconda Prompt on Windows) to run the following commands to check the installations:
+Once Anaconda is installed, open your terminal to run the following commands to check the installations:
 
 ```bash
 conda --version
