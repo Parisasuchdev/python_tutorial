@@ -29,7 +29,7 @@ Anaconda is a distribution of Python and R for scientific computing and data sci
 **Note for Windows Users:** Make sure to check the option to add Anaconda to your PATH environment during installation.
 **Note of Mac Users:** If you are having issues where it says that it alrwady exists, use this command in your terminal
 ```bash
-rm -rf ~/anaconda
+sudo rm -rf /opt/anaconda3
 ```
 
 #### Open Terminal
