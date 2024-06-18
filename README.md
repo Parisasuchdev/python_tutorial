@@ -43,10 +43,6 @@ sudo rm -rf /opt/anaconda3
 3. Run the installer and follow the instructions.
 
 **Note for Windows Users:** Make sure to check the option to add Anaconda to your PATH environment during installation.
-**Note of Mac Users:** If you are having issues where it says that it already exists, use this command in your terminal
-```bash
-sudo rm -rf /opt/anaconda3
-```
 
 #### Open Terminal
 
