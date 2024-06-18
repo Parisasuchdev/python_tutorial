@@ -83,7 +83,7 @@ conda create --name myenv
 Replace `myenv` with the name you want for your environment. You can also specify the Python version and packages:
 
 ```bash
-conda create --name myenv python=3.8 ipython
+conda create --name myenv python=3.11.7 ipython
 ```
 
 ### 2.2 Activate the Conda Environment
