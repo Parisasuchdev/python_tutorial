@@ -27,6 +27,10 @@ Anaconda is a distribution of Python and R for scientific computing and data sci
 3. Run the installer and follow the instructions.
 
 **Note for Windows Users:** Make sure to check the option to add Anaconda to your PATH environment during installation.
+**Note of Mac Users:** If you are having issues where it says that it alrwady exists, use this command in your terminal
+```bash
+rm -rf ~/anaconda
+```
 
 #### Open Terminal
 
@@ -36,6 +40,7 @@ Once Anaconda is installed, open your terminal (or Anaconda Prompt on Windows) t
 conda --version
 python --version
 ```
+
 
 Python should already be installed with Anaconda. You can verify the installation using the `python --version` command above.
 
