@@ -110,6 +110,11 @@ When you are done working in the environment, you can deactivate it with:
 conda deactivate
 ```
 
+## 4. Download BeautifulSoup using Conda:
+```bash
+conda install -c anaconda beautifulsoup4
+```
+
 ## 3. Resources for Further Learning
 
 For a whirlwind tour of some of Python's essential syntax and semantics, built-in data types and structures, function definitions, control flow statements, and other aspects of the language, refer to this [Handbook](https://nbviewer.org/github/bagrow/WhirlwindTourOfPython/blob/master/01-Introduction.ipynb).
